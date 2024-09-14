@@ -31,10 +31,15 @@ Sentiment analysis of user reviews helps in understanding customer feedback.
 Various visualizations were created using Plotly to explore app categories, types, reviews, and ratings. Key plots include:
 
 ### Category Analysis: Bar chart showing top categories by app count.
+
 ### App Type Distribution: Pie chart demonstrating the distribution of free vs paid apps.
+
 ### Rating Distribution: Histogram showing the skewness towards higher ratings.
+
 ### Sentiment Distribution: Bar chart visualizing the sentiment scores from user reviews.
+
 ### Installs by Category: Horizontal bar chart showing installs by app category.
+
 ### Revenue by Category: Bar chart showing revenue across app categories.
 
 Highlights:
