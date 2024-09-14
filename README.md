@@ -1,4 +1,4 @@
-The "Google Play Store Data Analysis" PDF covers a detailed analysis of Google Play Store apps and user reviews using Python. Below is a summary and documentation, highlighting the key steps and strengths of the project:
+
 
 
 # 1. Data Loading and Preprocessing
