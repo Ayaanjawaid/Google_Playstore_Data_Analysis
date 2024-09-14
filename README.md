@@ -81,6 +81,6 @@ This project effectively analyzes Google Play Store data, delivering meaningful 
 
 ## DASHBOARD
 
-![ss-1](https://github.com/user-attachments/assets/0d803fbe-1682-494a-8579-febfbb56d3e5)
+![ss-1](https://github.com/user-attachments/assets/9f09770f-f3d1-4600-994f-08dd26ffca51)
 
-![ss-2](https://github.com/user-attachments/assets/3915efe5-dfed-4594-97cf-aba19007106d)
+![ss-2](https://github.com/user-attachments/assets/14c25d13-1108-48f7-95f1-b3356efe296a)
