@@ -30,17 +30,17 @@ Sentiment analysis of user reviews helps in understanding customer feedback.
 # 3. Exploratory Data Analysis (EDA)
 Various visualizations were created using Plotly to explore app categories, types, reviews, and ratings. Key plots include:
 
-### Category Analysis: Bar chart showing top categories by app count.
+Category Analysis: Bar chart showing top categories by app count.
 
-### App Type Distribution: Pie chart demonstrating the distribution of free vs paid apps.
+App Type Distribution: Pie chart demonstrating the distribution of free vs paid apps.
 
-### Rating Distribution: Histogram showing the skewness towards higher ratings.
+Rating Distribution: Histogram showing the skewness towards higher ratings.
 
-### Sentiment Distribution: Bar chart visualizing the sentiment scores from user reviews.
+Sentiment Distribution: Bar chart visualizing the sentiment scores from user reviews.
 
-### Installs by Category: Horizontal bar chart showing installs by app category.
+Installs by Category: Horizontal bar chart showing installs by app category.
 
-### Revenue by Category: Bar chart showing revenue across app categories.
+Revenue by Category: Bar chart showing revenue across app categories.
 
 Highlights:
 The visualizations are clean and informative, with clear titles and insights.
@@ -48,11 +48,15 @@ The EDA covers multiple aspects, including app type, rating, installs, and senti
 
 # 4. Key Insights from Visualizations
 
-### Top Categories: Tools, entertainment, and productivity apps dominate the Play Store.
-### App Type: Most apps are free, indicating a strategy to attract users and monetize through ads or in-app purchases.### 
-### Rating Trends: Ratings are skewed towards higher values, showing a general satisfaction from users.
-### Sentiment: User sentiments are slightly inclined towards positive feedback.
-### Installs and Revenue: Categories like social and communication apps have the highest installs, while business and productivity apps generate the most revenue.
+Top Categories: Tools, entertainment, and productivity apps dominate the Play Store.
+
+App Type: Most apps are free, indicating a strategy to attract users and monetize through ads or in-app purchases.
+
+Rating Trends: Ratings are skewed towards higher values, showing a general satisfaction from users.
+
+Sentiment: User sentiments are slightly inclined towards positive feedback.
+
+Installs and Revenue: Categories like social and communication apps have the highest installs, while business and productivity apps generate the most revenue.
 
 Highlights:
 The insights generated from the analysis provide a clear understanding of user behavior and app performance in different categories.
